@@ -1,6 +1,8 @@
 # ButtonCorner
 设置Button的圆角效果
 
+![](https://github.com/ziyilixin/ButtonCorner/blob/master/ButtonCorner/ButtonCorner/ScreenShot/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-08-16%20at%2010.16.47.png?raw=true)
+
 ## 设置button所有边为圆角
 ```objc
 UIBezierPath *maskPath = [UIBezierPath bezierPathWithRoundedRect:button.bounds cornerRadius:10.0];
