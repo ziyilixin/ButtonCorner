@@ -13,6 +13,7 @@
 		BB9065142125143400B805D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB9065132125143400B805D0 /* Assets.xcassets */; };
 		BB9065172125143400B805D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB9065152125143400B805D0 /* LaunchScreen.storyboard */; };
 		BB90651A2125143400B805D0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BB9065192125143400B805D0 /* main.m */; };
+		BB9065222125167600B805D0 /* Simulator Screen Shot - iPhone 8 Plus - 2018-08-16 at 10.16.47.png in Resources */ = {isa = PBXBuildFile; fileRef = BB9065212125167600B805D0 /* Simulator Screen Shot - iPhone 8 Plus - 2018-08-16 at 10.16.47.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BB9065162125143400B805D0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BB9065182125143400B805D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BB9065192125143400B805D0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		BB9065212125167600B805D0 /* Simulator Screen Shot - iPhone 8 Plus - 2018-08-16 at 10.16.47.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 8 Plus - 2018-08-16 at 10.16.47.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		BB9065092125143300B805D0 /* ButtonCorner */ = {
 			isa = PBXGroup;
 			children = (
+				BB9065202125164500B805D0 /* ScreenShot */,
 				BB90650A2125143300B805D0 /* AppDelegate.h */,
 				BB90650B2125143300B805D0 /* AppDelegate.m */,
 				BB90650D2125143300B805D0 /* ViewController.h */,
@@ -69,6 +72,14 @@
 				BB9065192125143400B805D0 /* main.m */,
 			);
 			path = ButtonCorner;
+			sourceTree = "<group>";
+		};
+		BB9065202125164500B805D0 /* ScreenShot */ = {
+			isa = PBXGroup;
+			children = (
+				BB9065212125167600B805D0 /* Simulator Screen Shot - iPhone 8 Plus - 2018-08-16 at 10.16.47.png */,
+			);
+			path = ScreenShot;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,6 +139,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BB9065222125167600B805D0 /* Simulator Screen Shot - iPhone 8 Plus - 2018-08-16 at 10.16.47.png in Resources */,
 				BB9065172125143400B805D0 /* LaunchScreen.storyboard in Resources */,
 				BB9065142125143400B805D0 /* Assets.xcassets in Resources */,
 				BB9065122125143300B805D0 /* Main.storyboard in Resources */,
